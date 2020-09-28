@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/apple/Downloads/Fashion_House/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] /Users/apple/Downloads/Fashion_House/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-reanimated] /Users/apple/Downloads/Fashion_House/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/apple/Downloads/Fashion_House/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/apple/Downloads/Fashion_House/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/57a4575914d7f4bcdc688c472600eb9b/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/5466eb8c20859887d854b4e2d8e3eb6e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5eeb3cfbc627779486390485a84569c2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3bb5c3303fee4a41f3efe1b3e5154fdd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/43743aadd93489290592f09759f478f0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/803331e88010278c8dd05d1b74858a34/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/807627f88394da696315c84d0057ead0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bf8437ff4e795d5ababa48de5fac7084/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2d59387fa667b8d4fa6ecb2974308e98/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/89609e32ec6c3579d73d6a11b9dcfb84/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3e2a3539e729ed0faa2b89e39ed59c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75a2231d899d8a441bb5326f0ebaf769/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8c8a9dfd64b1eb6ebb08e6b961680498/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/051850f2191229988006bef0f5e18fa3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/275077a6c03b37368cba8e1bbe08a07d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c084cf9070868287575ee6e40d086d6b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cbe17c1c5314115db6119a21929efc42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a132042a934b2a574d7e659cba84d97d/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c3cd2db1c9bd608998e5fd3207769619/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a655bd38f0fadc938e668a6f518fc25e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b16b165f8307bb256675d324c7f5d44c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f0ae751de879c3cb7e1c2043e4cfeb5e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/226cf539bc27392dc6da94ad044deef0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fa9485c9676fb212ed1b1c132024f613/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9cb3a430e0286cf641c81d279c898402/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/06bf4a6fc4813e83eadb597176dfd08a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3cf018eb6403bf587e1d4ee87043273c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2dee90bbcc2829ded321160a77d310f4/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/e64346ffbdc41bbd3a8c3b852947cf1d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/af6acf566b83f0a9a1f495948ed2e9bc/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bfcb9be878d7dfe202b54cff04893e24/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9ee3ccc801d466622b3a38895f13da1a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f01111bdc399331311688147a4f14345/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1ec5a02fcba5b0be6a17f8ccb46fd520/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2bf0eefdbc580207be93b711e937f2bd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9f82ffffa8b9b560957f76e3a6469963/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a5c9084bf13dcb939302dd5584f1d63d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0380e6045d58bb802caa98e062836f4e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a92695e9e2fce35b0709834cf649139c/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:2:1-10:12
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:2:1-10:12
+	package
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/57a4575914d7f4bcdc688c472600eb9b/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/57a4575914d7f4bcdc688c472600eb9b/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5eeb3cfbc627779486390485a84569c2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5eeb3cfbc627779486390485a84569c2/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75a2231d899d8a441bb5326f0ebaf769/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75a2231d899d8a441bb5326f0ebaf769/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2dee90bbcc2829ded321160a77d310f4/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2dee90bbcc2829ded321160a77d310f4/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/af6acf566b83f0a9a1f495948ed2e9bc/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/af6acf566b83f0a9a1f495948ed2e9bc/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2dee90bbcc2829ded321160a77d310f4/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:9:75-114
+	android:roundIcon
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:9:54-74
+	android:icon
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:9:18-53
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.fashion_house.MainActivity
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/apple/Downloads/Fashion_House/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/apple/Downloads/Fashion_House/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/apple/Downloads/Fashion_House/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/apple/Downloads/Fashion_House/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/apple/Downloads/Fashion_House/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/apple/Downloads/Fashion_House/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/apple/Downloads/Fashion_House/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/apple/Downloads/Fashion_House/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/apple/Downloads/Fashion_House/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/apple/Downloads/Fashion_House/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/57a4575914d7f4bcdc688c472600eb9b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/apple/.gradle/caches/transforms-2/files-2.1/57a4575914d7f4bcdc688c472600eb9b/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/5466eb8c20859887d854b4e2d8e3eb6e/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/apple/.gradle/caches/transforms-2/files-2.1/5466eb8c20859887d854b4e2d8e3eb6e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5eeb3cfbc627779486390485a84569c2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5eeb3cfbc627779486390485a84569c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3bb5c3303fee4a41f3efe1b3e5154fdd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3bb5c3303fee4a41f3efe1b3e5154fdd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/43743aadd93489290592f09759f478f0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/43743aadd93489290592f09759f478f0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/803331e88010278c8dd05d1b74858a34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/803331e88010278c8dd05d1b74858a34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/807627f88394da696315c84d0057ead0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/807627f88394da696315c84d0057ead0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bf8437ff4e795d5ababa48de5fac7084/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bf8437ff4e795d5ababa48de5fac7084/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2d59387fa667b8d4fa6ecb2974308e98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2d59387fa667b8d4fa6ecb2974308e98/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/89609e32ec6c3579d73d6a11b9dcfb84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/89609e32ec6c3579d73d6a11b9dcfb84/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3e2a3539e729ed0faa2b89e39ed59c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b3e2a3539e729ed0faa2b89e39ed59c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75a2231d899d8a441bb5326f0ebaf769/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/75a2231d899d8a441bb5326f0ebaf769/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8c8a9dfd64b1eb6ebb08e6b961680498/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/8c8a9dfd64b1eb6ebb08e6b961680498/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/051850f2191229988006bef0f5e18fa3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/051850f2191229988006bef0f5e18fa3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/275077a6c03b37368cba8e1bbe08a07d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/apple/.gradle/caches/transforms-2/files-2.1/275077a6c03b37368cba8e1bbe08a07d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c084cf9070868287575ee6e40d086d6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c084cf9070868287575ee6e40d086d6b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cbe17c1c5314115db6119a21929efc42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/cbe17c1c5314115db6119a21929efc42/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a132042a934b2a574d7e659cba84d97d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a132042a934b2a574d7e659cba84d97d/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c3cd2db1c9bd608998e5fd3207769619/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/c3cd2db1c9bd608998e5fd3207769619/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a655bd38f0fadc938e668a6f518fc25e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a655bd38f0fadc938e668a6f518fc25e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b16b165f8307bb256675d324c7f5d44c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/b16b165f8307bb256675d324c7f5d44c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f0ae751de879c3cb7e1c2043e4cfeb5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f0ae751de879c3cb7e1c2043e4cfeb5e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/226cf539bc27392dc6da94ad044deef0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/226cf539bc27392dc6da94ad044deef0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fa9485c9676fb212ed1b1c132024f613/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/fa9485c9676fb212ed1b1c132024f613/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9cb3a430e0286cf641c81d279c898402/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9cb3a430e0286cf641c81d279c898402/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/06bf4a6fc4813e83eadb597176dfd08a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/06bf4a6fc4813e83eadb597176dfd08a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3cf018eb6403bf587e1d4ee87043273c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/3cf018eb6403bf587e1d4ee87043273c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2dee90bbcc2829ded321160a77d310f4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2dee90bbcc2829ded321160a77d310f4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/e64346ffbdc41bbd3a8c3b852947cf1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/e64346ffbdc41bbd3a8c3b852947cf1d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/af6acf566b83f0a9a1f495948ed2e9bc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/af6acf566b83f0a9a1f495948ed2e9bc/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bfcb9be878d7dfe202b54cff04893e24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/bfcb9be878d7dfe202b54cff04893e24/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9ee3ccc801d466622b3a38895f13da1a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9ee3ccc801d466622b3a38895f13da1a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f01111bdc399331311688147a4f14345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f01111bdc399331311688147a4f14345/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1ec5a02fcba5b0be6a17f8ccb46fd520/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1ec5a02fcba5b0be6a17f8ccb46fd520/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2bf0eefdbc580207be93b711e937f2bd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/2bf0eefdbc580207be93b711e937f2bd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9f82ffffa8b9b560957f76e3a6469963/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/9f82ffffa8b9b560957f76e3a6469963/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a5c9084bf13dcb939302dd5584f1d63d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a5c9084bf13dcb939302dd5584f1d63d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0380e6045d58bb802caa98e062836f4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/0380e6045d58bb802caa98e062836f4e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a92695e9e2fce35b0709834cf649139c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/a92695e9e2fce35b0709834cf649139c/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:6:5-64
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/apple/Downloads/Fashion_House/android/app/src/debug/AndroidManifest.xml:7:22-78
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/apple/Downloads/Fashion_House/node_modules/react-native-image-picker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:17-67
